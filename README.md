@@ -32,8 +32,8 @@ I'm **Aachal Gupta**, a passionate tech explorer who thrives on creativity, code
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:aachal.gupta@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aachal-gupta"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aachalgupta04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aachal-gupta-32019526b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -43,12 +43,7 @@ I'm **Aachal Gupta**, a passionate tech explorer who thrives on creativity, code
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,figma,github,vscode" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aachalgupta&theme=radical&no-bg=true&no-frame=true" />
-</p>
 
 ---
 
