@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+I'm+Aachal+Gupta!;Tech+Explorer+%F0%9F%9A%80;Creative+Coder+%26+Problem+Solver+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<p align="center" color="purple">
+  
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30">
 </p>
 
