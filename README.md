@@ -47,22 +47,18 @@ I'm **Aachal Gupta**, a passionate tech explorer who thrives on creativity, code
 
 ---
 
-### 📈 GitHub Stats
+
+
+## 📊 GitHub Stats
+
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=aachalgupta&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aachalgupta&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aachalgupta&layout=compact&theme=radical" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=aachalgupta&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aachalgupta&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🌐 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aachalgupta&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30">
-</p>
