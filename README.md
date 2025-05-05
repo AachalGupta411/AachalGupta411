@@ -10,16 +10,22 @@
 
 ## 👋 Welcome to my GitHub!
 
-I'm **Aachal Gupta**, a passionate tech explorer who thrives on creativity, code, and curiosity. I love building innovative digital experiences that make people go "wow" ✨
-
+I'm **Aachal Gupta**, a passionate tech explorer who thrives on creativity, code, and curiosity.  ✨
+👋 Welcome to my digital playground — where ideas compile into reality (most of the time).
 ---
 
 ### 🧠 Currently Learning
-- 🧬 **Prompt Engineering for AI Systems** – crafting smarter AI with better human-AI interactions
-- 🌍 **No-Code Tools like AppSheet & Bubble** – rapid prototyping without writing a line of code
-- 🧠 **Neuro-Symbolic AI** – bridging symbolic logic and neural networks
-- 📱 **PWA & Offline Web Apps** – taking the web beyond the browser
-- 🎨 **Creative Coding** with p5.js – turning code into art
+🤖 Generative AI – teaching machines to write better punchlines than me (still losing).
+
+🧩 Prompt Engineering – because talking to AI is an art and sometimes a gamble.
+
+⚙️ No-Code Tools (AppSheet, Bubble) – building apps faster than my laptop can crash.
+
+🧠 Neuro-Symbolic AI – mixing logic and deep learning like a tech smoothie.
+
+🎨 Creative Coding (p5.js) – making art with code and confusing people on purpose.
+
+🐛 Debugging – professionally hunting bugs I definitely didn’t put there.
 
 ---
 
