@@ -62,8 +62,6 @@ I'm **Aachal Gupta**, a passionate tech explorer who thrives on creativity, code
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=aachalgupta&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=aachalgupta&theme=radical&hide_border=true" alt="GitHub Streak" />
 
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aachalgupta&layout=compact&theme=radical" alt="Top Languages" />
